@@ -17,7 +17,7 @@
 - https://www.google.com/maps/search/?api=1&query=Engenhoca+Niterói+RJ
 
 ## Site Oficial
-- Não encontrado / não confirmado
+- Confirmado que existe o domínio https://altashorasbarbearia.com.br/ (aplicação React minimalista, sem conteúdo indexável — usado apenas como referência de melhoria, não de dados)
 
 ## Instagram
 - Não confirmado
@@ -38,7 +38,10 @@
 - Endereço exato
 - Lista oficial de serviços e preços
 - Horários de funcionamento
-- Instagram / Facebook / site oficial
+- Instagram / Facebook
 - Fotos reais da barbearia
 - Avaliações
 - Nomes de funcionários
+
+## Observação
+- O site foi redesenhado para superar o site atual (altashorasbarbearia.com.br), que é uma SPA React sem conteúdo indexável. Nenhuma informação nova foi inventada: o site usa apenas nome, telefone/WhatsApp e bairro confirmados, com serviços genéricos sinalizados como "a confirmar".
